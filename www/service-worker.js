@@ -1,5 +1,5 @@
 /* One Click Goal — service worker (offline + cache) */
-const CACHE = 'ocg-v10'; // przy każdej aktualizacji gry podbij numer: ocg-v2, ocg-v3...
+const CACHE = 'ocg-v12'; // przy każdej aktualizacji gry podbij numer: ocg-v2, ocg-v3...
 const ASSETS = [
   './',
   './index.html',
